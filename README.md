@@ -26,33 +26,5 @@ Proyectos con Bootstrap
 | Groups |  |
 | Modals | |
 
-1. Headers
-
-https://angiecordoba5.github.io/Headers/
-
-2. Heroes
-
-https://angiecordoba5.github.io/Heroes/
-
-3. Features
-
-https://angiecordoba5.github.io/Features/
-
-4. Sidebars
-
-https://angiecordoba5.github.io/Sidebars/
-
-5. Footers
-
-https://angiecordoba5.github.io/Footers/
-
-6. Dropdowns
-
-https://angiecordoba5.github.io/Dropdowns/
-
-7. Groups
-
-
-8. Modals
 
 
