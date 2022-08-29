@@ -15,6 +15,17 @@ Proyectos con css y html
 
 Proyectos con Bootstrap
 
+| Page | Repository |
+| :--: | :--------: |
+| Headers | https://angiecordoba5.github.io/Headers/ |
+| Heroes | https://angiecordoba5.github.io/Heroes/ |
+| Features | https://angiecordoba5.github.io/Features/ |
+| Sidebars | https://angiecordoba5.github.io/Sidebars/|
+| Footers | https://angiecordoba5.github.io/Footers/ |
+| Dropdowns | https://angiecordoba5.github.io/Dropdowns/ |
+| Groups |  |
+| Modals | |
+
 1. Headers
 
 https://angiecordoba5.github.io/Headers/
