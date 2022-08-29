@@ -2,6 +2,13 @@
 
 Proyecto con css y html
 
+Proyectos coc css
+
+| Page | Repository |
+| :--: | :--------: |
+| [Album] () | [Git]()|
+| [pricing] () | [Git]()|
+
 1. Album
 
 https://angiecordoba5.github.io/Album/
