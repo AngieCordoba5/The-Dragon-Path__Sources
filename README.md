@@ -6,8 +6,8 @@ Proyectos coc css
 
 | Page | Repository |
 | :--: | :--------: |
-| [Album] () | [Git]()|
-| [pricing] () | [Git]()|
+| Album | https://angiecordoba5.github.io/Album/|
+| pricing | [Git](https://angiecordoba5.github.io/Album/)|
 
 1. Album
 
