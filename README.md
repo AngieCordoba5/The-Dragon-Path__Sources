@@ -24,7 +24,7 @@ Proyectos con Bootstrap
 | Footers | https://angiecordoba5.github.io/Footers/ |
 | Dropdowns | https://angiecordoba5.github.io/Dropdowns/ |
 | Groups | https://angiecordoba5.github.io/Groups/ |
-| Modals | |
+| Modals | https://angiecordoba5.github.io/Modals/ |
 
 
 
