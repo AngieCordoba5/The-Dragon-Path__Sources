@@ -1,8 +1,6 @@
 # The-Dragon-Path__Sources
 
-Proyecto con css y html
-
-Proyectos coc css
+Proyectos con css y html
 
 | Page | Repository |
 | :--: | :--------: |
@@ -12,25 +10,6 @@ Proyectos coc css
 | Check out | https://angiecordoba5.github.io/Checkout/ |
 | Blog | https://angiecordoba5.github.io/Blog/ |
 
-1. Album
-
-https://angiecordoba5.github.io/Album/
-
-2. Pricing
-
-https://github.com/AngieCordoba5/Pricing_version2
-
-3. Product
-
-https://angiecordoba5.github.io/Product/
-
-4. Ckeck out
-
-https://angiecordoba5.github.io/Checkout/
-
-5. Blog
-
-https://angiecordoba5.github.io/Blog/
 
 ------------------------------------------------------
 
